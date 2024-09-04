@@ -1,4 +1,4 @@
 
 let result1=10;
-let result2=20;
-console.log(result1+result2);
+let result3=20;
+console.log(result1+result3);
